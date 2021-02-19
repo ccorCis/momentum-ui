@@ -1,0 +1,327 @@
+{
+  "size": 1824,
+  "gzipSize": 575,
+  "humanizedSize": "2KB",
+  "humanizedGzipSize": "575B",
+  "rules": {
+    "total": 18,
+    "size": {
+      "graph": [
+        5,
+        6,
+        2,
+        1,
+        1,
+        3,
+        3,
+        1,
+        4,
+        7,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "max": 7,
+      "average": 2.5555555555555554
+    },
+    "selectorByRuleSizes": [
+      {
+        "selector": ".md-datepicker__day--names",
+        "declarations": 7
+      },
+      {
+        "selector": ".md-datepicker__navigation--buttons",
+        "declarations": 6
+      },
+      {
+        "selector": ".md-datepicker__month-container",
+        "declarations": 5
+      },
+      {
+        "selector": ".md-datepicker__day",
+        "declarations": 4
+      },
+      {
+        "selector": ".md-datepicker__navigation",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-datepicker__navigation--current-month",
+        "declarations": 3
+      },
+      {
+        "selector": ".md-datepicker__day--today.md-datepicker__day--selected::part(button)",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-datepicker__day--today.md-datepicker__day--focus::part(button)",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-datepicker__day--selected::part(button)",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-datepicker__day--today::part(button)",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-datepicker__day[disabled]::part(button)",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-datepicker__navigation--buttons md-button[disabled]::part(button)",
+        "declarations": 2
+      },
+      {
+        "selector": ".md-datepicker__day--outside-month",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-datepicker__day--focus::part(button)",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-datepicker__day::part(button):hover",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-datepicker__day--names",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-datepicker__week",
+        "declarations": 1
+      },
+      {
+        "selector": ".md-datepicker__month",
+        "declarations": 1
+      }
+    ]
+  },
+  "selectors": {
+    "total": 18,
+    "type": 8,
+    "class": 18,
+    "id": 0,
+    "pseudoClass": 1,
+    "pseudoElement": 0,
+    "values": [
+      ".md-datepicker__month-container",
+      ".md-datepicker__navigation--buttons",
+      ".md-datepicker__navigation--buttons md-button[disabled]::part(button)",
+      ".md-datepicker__month",
+      ".md-datepicker__week",
+      ".md-datepicker__navigation--current-month",
+      ".md-datepicker__navigation",
+      ".md-datepicker__day--names",
+      ".md-datepicker__day",
+      ".md-datepicker__day--names",
+      ".md-datepicker__day::part(button):hover",
+      ".md-datepicker__day[disabled]::part(button)",
+      ".md-datepicker__day--today::part(button)",
+      ".md-datepicker__day--focus::part(button)",
+      ".md-datepicker__day--selected::part(button)",
+      ".md-datepicker__day--outside-month",
+      ".md-datepicker__day--today.md-datepicker__day--focus::part(button)",
+      ".md-datepicker__day--today.md-datepicker__day--selected::part(button)"
+    ],
+    "specificity": {
+      "max": 22,
+      "average": 13.277777777777779,
+      "graph": [
+        10,
+        10,
+        22,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        21,
+        21,
+        11,
+        11,
+        11,
+        10,
+        21,
+        21
+      ],
+      "sortedGraph": [
+        {
+          "selector": ".md-datepicker__navigation--buttons md-button[disabled]::part(button)",
+          "specificity": 22
+        },
+        {
+          "selector": ".md-datepicker__day::part(button):hover",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-datepicker__day[disabled]::part(button)",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-datepicker__day--today.md-datepicker__day--focus::part(button)",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-datepicker__day--today.md-datepicker__day--selected::part(button)",
+          "specificity": 21
+        },
+        {
+          "selector": ".md-datepicker__day--today::part(button)",
+          "specificity": 11
+        },
+        {
+          "selector": ".md-datepicker__day--focus::part(button)",
+          "specificity": 11
+        },
+        {
+          "selector": ".md-datepicker__day--selected::part(button)",
+          "specificity": 11
+        },
+        {
+          "selector": ".md-datepicker__month-container",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__navigation--buttons",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__month",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__week",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__navigation--current-month",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__navigation",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__day--names",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__day",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__day--names",
+          "specificity": 10
+        },
+        {
+          "selector": ".md-datepicker__day--outside-month",
+          "specificity": 10
+        }
+      ]
+    },
+    "repeated": [
+      ".md-datepicker__day--names"
+    ]
+  },
+  "declarations": {
+    "total": 46,
+    "unique": 34,
+    "properties": {
+      "display": [
+        "flex",
+        "flex",
+        "flex",
+        "flex",
+        "inline-block",
+        "flex"
+      ],
+      "flex-direction": [
+        "column"
+      ],
+      "height": [
+        "17rem",
+        "2.125rem",
+        "1.75rem"
+      ],
+      "justify-content": [
+        "space-between",
+        "space-between",
+        "space-between",
+        "space-around"
+      ],
+      "padding": [
+        "4px 10px 12px",
+        "0 6px"
+      ],
+      "align-items": [
+        "center"
+      ],
+      "color": [
+        "var(--md-primary-text-color, inherit)",
+        "var(--md-disabled-text-color, inherit)",
+        "var(--md-secondary-text-color, #545454)",
+        "var(--md-disabled-text-color, inherit)",
+        "#F26B1D",
+        "var(--md-primary-text-color, #fff)",
+        "var(--md-disabled-text-color, inherit)",
+        "#FAF4EB",
+        "var(--datepicker-selected-today-text-color, #121212)"
+      ],
+      "line-height": [
+        "normal",
+        ".875rem"
+      ],
+      "width": [
+        "2.75rem",
+        "auto",
+        "1.75rem"
+      ],
+      "background-color": [
+        "none"
+      ],
+      "font-size": [
+        "1rem",
+        ".625rem"
+      ],
+      "font-weight": [
+        "700",
+        "700"
+      ],
+      "text-transform": [
+        "capitalize",
+        "capitalize"
+      ],
+      "border-radius": [
+        "100%"
+      ],
+      "margin": [
+        "12px 0 8px"
+      ],
+      "background": [
+        "var(--datepicker-default-hover-bg-color, #545454)",
+        "none",
+        "#F26B1D",
+        "var(--md-quaternary-bg-color, #121212)",
+        "#F26B1D",
+        "#F26B1D"
+      ]
+    },
+    "resets": {}
+  },
+  "mediaQueries": {
+    "total": 0,
+    "unique": 0,
+    "values": [],
+    "contents": []
+  }
+}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[93],{709:function(module,exports){module.exports=function ldif(hljs){return{name:"LDIF",contains:[{className:"attribute",begin:"^dn",end:": ",excludeEnd:!0,starts:{end:"$",relevance:0},relevance:10},{className:"attribute",begin:"^\\w",end:": ",excludeEnd:!0,starts:{end:"$",relevance:0}},{className:"literal",begin:"^-",end:"$"},hljs.HASH_COMMENT_MODE]}}}}]);
+//# sourceMappingURL=93.633c50a5b346e4b8d5f9.bundle.js.map
